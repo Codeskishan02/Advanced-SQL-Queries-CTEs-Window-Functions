@@ -1,0 +1,15 @@
+Built a PostgreSQL project on Query Index Tuning, Execution Plans & ACID Transactions.
+
+What I practiced:
+• Analyzing query plans with EXPLAIN ANALYZE and BUFFERS
+• Creating B-tree, composite, and partial indexes
+• Comparing query plans before and after indexing
+• Simulating 100,000 orders and 50,000 inventory rows
+• Writing safe inventory transactions with row locking, conditional updates, COMMIT, and ROLLBACK
+• Documenting performance results in optimization_report.md
+
+Tools: PostgreSQL, SQL
+
+Note: Performance figures are recorded from actual local execution rather than assumed in advance.
+
+#PostgreSQL #SQL #DatabaseOptimization #Indexing #ACID #DatabaseManagement #LearningByBuilding
